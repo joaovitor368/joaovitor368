@@ -30,26 +30,14 @@
 
 ## 👨‍💻 Sobre mim
 
-```javascript
-const joao = {
     nome: "João Vitor Mattos",
     instituição: "FIAP",
     curso: "Engenharia de Software",
 
-    foco: [
-        "Desenvolvimento Web",
-        "React",
-        "JavaScript",
-        "Python",
-        "IoT"
-    ],
-
     objetivo: "Transformar problemas em soluções através da tecnologia 🚀",
 
     filosofia: "Aprender → Criar → Testar → Evoluir"
-};
-
-console.log("Construindo o futuro, uma linha de código por vez.");
+    
 
 React / Front-End       ████████████████░░░░  80%
 JavaScript              ███████████████░░░░░  75%
@@ -58,37 +46,6 @@ HTML / CSS              ██████████████████�
 Git / GitHub             ███████████████░░░░░  75%
 Arquitetura de Software ███████████░░░░░░░░░  55%
 
-class Developer:
-
-    def __init__(self):
-        self.name = "João Vitor Mattos"
-        self.education = "FIAP"
-        self.course = "Engenharia de Software"
-
-        self.skills = [
-            "JavaScript",
-            "React",
-            "Python",
-            "HTML",
-            "CSS",
-            "IoT"
-        ]
-
-    def mindset(self):
-        return [
-            "Curiosidade 🧠",
-            "Criatividade 💡",
-            "Persistência 🔥",
-            "Inovação 🚀"
-        ]
-
-    def goal(self):
-        return "Criar soluções que façam a diferença."
-
-
-developer = Developer()
-
-print("Building the future, one line at a time. 🚀")
 
            🚀 MINHA EVOLUÇÃO
 
@@ -102,40 +59,3 @@ print("Building the future, one line at a time. 🚀")
               │
               ▼
          🌎 Construindo o futuro
-
-.github
-└── workflows
-    └── snake.yml
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
-
-
