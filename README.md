@@ -1,4 +1,3 @@
-## Olá! Eu sou o João Vitor👋
 <!-- ========================================================= -->
 <!--                         HEADER                            -->
 <!-- ========================================================= -->
@@ -24,38 +23,86 @@
 
 <br>
 
-<!-- ========================================================= -->
-<!--                         SOBRE MIM                         -->
-<!-- ========================================================= -->
+**`Software Engineer`**
 
-## 👨‍💻 Sobre mim
+Me chamo João Vitor Batista de Mattos, tenho 18 anos e sou natural de São Paulo. Atualmente estou cursando Engenharia De Software na FIAP. Aqui compartilho meu conhecimento e habilidade no ramo da tecnologia e programação.
 
-    nome: "João Vitor Mattos",
-    instituição: "FIAP",
-    curso: "Engenharia de Software",
+### 🤖 Linguagens e Tecnologias
 
-    objetivo: "Transformar problemas em soluções através da tecnologia 🚀",
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-    filosofia: "Aprender → Criar → Testar → Evoluir"
-    
+<br/>
+<br/>
 
-React / Front-End       ████████████████░░░░  80%
-JavaScript              ███████████████░░░░░  75%
-Python                  █████████████░░░░░░░  65%
-HTML / CSS              ██████████████████░░  90%
-Git / GitHub             ███████████████░░░░░  75%
-Arquitetura de Software ███████████░░░░░░░░░  55%
+### 📊 Estatísticas
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+  />
 
-           🚀 MINHA EVOLUÇÃO
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200"  
+  />
 
-2025     💻 Engenharia de Software
-              │
-              ▼
-2026     🔥 Desenvolvendo projetos
-              │
-              ▼
-2027     🚀 Evoluindo como desenvolvedor
-              │
-              ▼
-         🌎 Construindo o futuro
+</p>
